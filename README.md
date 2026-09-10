@@ -2,6 +2,8 @@
 
 Eu sou estudante de Sistemas de Informação da UFPA, tenho 23 anos e sou natural do Pará. 
 
+----
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -53,6 +55,8 @@ Eu sou estudante de Sistemas de Informação da UFPA, tenho 23 anos e sou natura
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
 />
 <br clear="left"/>
+
+---
 
 ### Contribuições
 
