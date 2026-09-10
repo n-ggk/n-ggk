@@ -76,3 +76,7 @@ Eu sou estudante de Sistemas de Informação da UFPA, tenho 23 anos e sou natura
 
 ---
 
+## Connect with me!
+
+- Linkedin: https://www.linkedin.com/in/n-ggk/
+- Email: contatonicolaspinto@gmail.com
